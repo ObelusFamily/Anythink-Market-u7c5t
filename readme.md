@@ -10,4 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+To start running the project follow the next steps:
+
+1. Download and install docker and docker- compose locally: https://www.docker.com/
+2. To check if docker is already install you can verify the version running the command docker -v and docker-compose -v
+3. Open your project and in the root project run docker-compose run to initilize the project with docker.
